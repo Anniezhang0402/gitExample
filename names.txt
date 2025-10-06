@@ -1,2 +1,3 @@
+role,NetID,LastName,FirstName
 boss,xzhang2842,Annie,Zhang
 employee,ejcahn,Cahn,Elliot
